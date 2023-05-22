@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mainJM.cpp", "mainJM.cpp\ma
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "memberinitlist.cpp", "memberinitlist.cpp\memberinitlist.cpp.vcxproj", "{127E13E5-721E-4743-860C-41AD29794AEA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pewarisan.cpp", "pewarisan.cpp\pewarisan.cpp.vcxproj", "{BD5837C3-A476-4AFF-A4F0-E946F031791C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{127E13E5-721E-4743-860C-41AD29794AEA}.Release|x64.Build.0 = Release|x64
 		{127E13E5-721E-4743-860C-41AD29794AEA}.Release|x86.ActiveCfg = Release|Win32
 		{127E13E5-721E-4743-860C-41AD29794AEA}.Release|x86.Build.0 = Release|Win32
+		{BD5837C3-A476-4AFF-A4F0-E946F031791C}.Debug|x64.ActiveCfg = Debug|x64
+		{BD5837C3-A476-4AFF-A4F0-E946F031791C}.Debug|x64.Build.0 = Debug|x64
+		{BD5837C3-A476-4AFF-A4F0-E946F031791C}.Debug|x86.ActiveCfg = Debug|Win32
+		{BD5837C3-A476-4AFF-A4F0-E946F031791C}.Debug|x86.Build.0 = Debug|Win32
+		{BD5837C3-A476-4AFF-A4F0-E946F031791C}.Release|x64.ActiveCfg = Release|x64
+		{BD5837C3-A476-4AFF-A4F0-E946F031791C}.Release|x64.Build.0 = Release|x64
+		{BD5837C3-A476-4AFF-A4F0-E946F031791C}.Release|x86.ActiveCfg = Release|Win32
+		{BD5837C3-A476-4AFF-A4F0-E946F031791C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
